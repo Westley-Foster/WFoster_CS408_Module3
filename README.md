@@ -26,3 +26,5 @@ display of the webpage.
 
 ## References
 How to use <dl>, <dt>, and <dd> at https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dl
+
+Used ChatGPT to help fix errors in the validator. My <time> and <ol> were originally incorrectly written.
